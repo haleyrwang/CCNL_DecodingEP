@@ -1,0 +1,50 @@
+code,description,full_name,dimension
+BPRS_SomaticConcern,Somatic Concern,(BPRS) Somatic Concern,gen
+BPRS_Anxiety,Anxiety,(BPRS) Anxiety,gen
+BPRS_EmotionalWithdrawal,Emotional Withdrawal,(BPRS) Emotional Withdrawal,neg
+BPRS_ConceptualDisorg,Conceptual Disorg,(BPRS) Conceptual Disorg,pos
+BPRS_GuiltFeelings,Guilt Feelings,(BPRS) Guilt Feelings,gen
+BPRS_Tension,Tension,(BPRS) Tension,gen
+BPRS_MannerismsPosturing,Mannerisms Posturing,(BPRS) Mannerisms Posturing,gen
+BPRS_Grandiosity,Grandiosity,(BPRS) Grandiosity,pos
+BPRS_DepressiveMood,Depressive Mood,(BPRS) Depressive Mood,gen
+BPRS_Hostility,Hostility,(BPRS) Hostility,pos
+BPRS_Suspiciousness,Suspiciousness,(BPRS) Suspiciousness,pos
+BPRS_HallucinatoryBehav,Hallucinatory Behav,(BPRS) Hallucinatory Behav,pos
+BPRS_MotorRetard,Motor Retard,(BPRS) Motor Retard,gen
+BPRS_Uncooperativeness,Uncooperativeness,(BPRS) Uncooperativeness,pos
+BPRS_UnusualThoughtContent,Unusual Thought Content,(BPRS) Unusual Thought Content,pos
+BPRS_BluntedAffect,Blunted Affect,(BPRS) Blunted Affect,neg
+BPRS_Excitement,Excitement,(BPRS) Excitement,pos
+BPRS_Disorientation,Disorientation,(BPRS) Disorientation,gen
+SANS_UnchangingFacialExpr,Unchanging Facial Expr,(SANS) Unchanging Facial Expr,neg
+SANS_DecSpontaneousMvmt,Dec Spontaneous Mvmt,(SANS) Dec Spontaneous Mvmt,neg
+SANS_PaucityExprGestures,Paucity Expr Gestures,(SANS) Paucity Expr Gestures,neg
+SANS_PoorEyeContact,Poor Eye Contact,(SANS) Poor Eye Contact,neg
+SANS_AffectiveNonResp,Affective Non Resp,(SANS) Affective Non Resp,neg
+SANS_LackVocalInflections,Lack Vocal Inflections,(SANS) Lack Vocal Inflections,neg
+SANS_GlobalRatAffectiveFlat,Global Rat Affective Flat,(SANS) Global Rat Affective Flat,neg
+SANS_PovertySpeech,Poverty Speech,(SANS) Poverty Speech,neg
+SANS_PovertyContentSpeech,Poverty Content Speech,(SANS) Poverty Content Speech,neg
+SANS_Blocking,Blocking,(SANS) Blocking,neg
+SANS_IncLatencyResp,Inc Latency Resp,(SANS) Inc Latency Resp,neg
+SANS_GlobalRatAlogia,Global Rat Alogia,(SANS) Global Rat Alogia,neg
+SANS_GroomingHygiene,Grooming Hygiene,(SANS) Grooming Hygiene,neg
+SANS_PhysicalAnergia,Physical Anergia,(SANS) Physical Anergia,neg
+SANS_GlobalRatAvolition,Global Rat Avolition,(SANS) Global Rat Avolition,neg
+SANS_Asociality,Asociality,(SANS) Asociality,neg
+SANS_Anhedonia,Anhedonia,(SANS) Anhedonia,neg
+SANS_DecrSexIntAct,Decr Sex Int Act,(SANS) Decr Sex Int Act,neg
+SANS_AbilityFeelIntimacyCloseness,Ability Feel Intimacy Closeness,(SANS) Ability Feel Intimacy Closeness,neg
+SANS_GlobalRatAsocAnhed,Global Rat Asoc Anhed,(SANS) Global Rat Asoc Anhed,neg
+YMRS_ElevatedMood,Elevated Mood,(YMRS) Elevated Mood,mania
+YMRS_IncMotorActEnergy,Inc Motor Act Energy,(YMRS) Inc Motor Act Energy,mania
+YMRS_Irritability,Irritability,(YMRS) Irritability,mania
+YMRS_LangThoughtDisorder,Lang Thought Disorder,(YMRS) Lang Thought Disorder,mania
+YMRS_Content,Content,(YMRS) Content,mania
+YMRS_DisruptAggrBehavior,Disrupt Aggr Behavior,(YMRS) Disrupt Aggr Behavior,mania
+YMRS_Appearance,Appearance,(YMRS) Appearance,mania
+YMRS_Insight,Insight,(YMRS) Insight,mania
+YMRS_Speech,Speech,(YMRS) Speech,mania
+YMRS_SexualInterest,Sexual Interest,(YMRS) Sexual Interest,mania
+YMRS_Sleep,Sleep,(YMRS) Sleep,mania

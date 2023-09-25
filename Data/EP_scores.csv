@@ -1,0 +1,42 @@
+code,description,full_name,dimension
+pos_p1,Delusions,(PANSS) P1.Delusions,pos
+pos_p2,Conceptual Organization,(PANSS) P2.Conceptual Organization,pos
+pos_p3,Hallucinatory Behavior,(PANSS) P3.Hallucinatory Behavior,pos
+pos_p4,Excitement,(PANSS) P4.Excitement,pos
+pos_p5,Grandiosity,(PANSS) P5.Grandiosity,pos
+pos_p6,Suspiciousness/Persecution,(PANSS) P6.Suspiciousness/Persecution,pos
+pos_p7,Hostility,(PANSS) P7.Hostility,pos
+neg_n1,Blunted Affect,(PANSS) N1.Blunted Affect,neg
+neg_n2,Emotional Withdrawal,(PANSS) N2.Emotional Withdrawal,neg
+neg_n3,Poor Rapport,(PANSS) N3.Poor Rapport,neg
+neg_n4,Passive/Apathetic Social Withdrawal,(PANSS) N4.Passive/Apathetic Social Withdrawal,neg
+neg_n5,Difficulty in Abstract Thinking,(PANSS) N5.Difficulty in Abstract Thinking,neg
+neg_n6,Lack of Spontaneity and Flow of Conversation,(PANSS) N6.Lack of Spontaneity and Flow of Conversation,neg
+neg_n7,Stereotyped Thinking,(PANSS) N7.Stereotyped Thinking,neg
+gps_g1,Somatic Concern,(GPS) G1.Somatic Concern,gen
+gps_g2,Anxiety,(GPS) G2.Anxiety,gen
+gps_g3,Guilt Feelings,(GPS) G3.Guilt Feelings,gen
+gps_g4,Tension,(GPS) G4.Tension,gen
+gps_g5,Mannerisms and Posturing,(GPS) G5.Mannerisms and Posturing,gen
+gps_g6,Depression,(GPS) G6.Depression,gen
+gps_g7,Motor Retardation,(GPS) G7.Motor Retardation,gen
+gps_g8,Uncooperativeness,(GPS) G8.Uncooperativeness,gen
+gps_g9,Unusual Thought Content,(GPS) G9.Unusual Thought Content,gen
+gps_g10,Disorientation,(GPS) G10.Disorientation,gen
+gps_g11,Poor Attention,(GPS) G11.Poor Attention,gen
+gps_g12,Lack of Judgement and Insight,(GPS) G12.Lack of Judgement and Insight,gen
+gps_g13,Disturbance of Volition,(GPS) G13.Disturbance of Volition,gen
+gps_g14,Poor Impulse Control,(GPS) G14.Poor Impulse Control,gen
+gps_g15,Preoccupation,(GPS) G15.Preoccupation,gen
+gps_g16,Active Social Avoidance,(GPS) G16.Active Social Avoidance,gen
+ymrs_elevmood,Elevated Mood,(YMRS) Elevated Mood,mania
+ymrs_incmotor,Increased Motor Activity/Energy,(YMRS) Increased Motor Activity/Energy,mania
+ymrs_sexinter,Sexual Interest,(YMRS) Sexual Interest,mania
+ymrs_sleepamt,Decreased Sleep,(YMRS) Decreased Sleep,mania
+ymrs_irritamt,Irritability,(YMRS) Irritability,mania
+ymrs_speech,Speech (Rate and Amount),(YMRS) Speech (Rate and Amount),mania
+ymrs_langdisr,Language - Thought Disorder,(YMRS) Language - Thought Disorder,mania
+ymrs_content,Bizzare Content,(YMRS) Bizzare Content,mania
+ymrs_disrupt,Disruptive - Aggressive Behavior,(YMRS) Disruptive - Aggressive Behavior,mania
+ymrs_appearnc,Appearance,(YMRS) Appearance,mania
+ymrs_insight,Insight,(YMRS) Insight,mania

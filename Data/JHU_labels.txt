@@ -1,0 +1,192 @@
+FA_Middle cerebellar peduncle
+FA_Pontine crossing tract
+FA_Genu of corpus callosum
+FA_Body of corpus callosum
+FA_Splenium of corpus callosum
+FA_Fornix (column and body)
+FA_Corticospinal tract R
+FA_Corticospinal tract L
+FA_Medial lemniscus R
+FA_Medial lemniscus L
+FA_Inferior cerebellar peduncle R
+FA_Inferior cerebellar peduncle L
+FA_Superior cerebellar peduncle R
+FA_Superior cerebellar peduncle L
+FA_Cerebral peduncle R
+FA_Cerebral peduncle L
+FA_Anterior limb of internal capsule R
+FA_Anterior limb of internal capsule L
+FA_Posterior limb of internal capsule R
+FA_Posterior limb of internal capsule L
+FA_Retrolenticular part of internal capsule R
+FA_Retrolenticular part of internal capsule L
+FA_Anterior corona radiata R
+FA_Anterior corona radiata L
+FA_Superior corona radiata R
+FA_Superior corona radiata L
+FA_Posterior corona radiata R
+FA_Posterior corona radiata L
+FA_Posterior thalamic radiation R
+FA_Posterior thalamic radiation L
+FA_Sagittal stratum R
+FA_Sagittal stratum L
+FA_External capsule R
+FA_External capsule L
+FA_Cingulum (cingulate gyrus) R
+FA_Cingulum (cingulate gyrus) L
+FA_Cingulum (hippocampus) R
+FA_Cingulum (hippocampus) L
+FA_Fornix (cres) / Stria terminalis R
+FA_Fornix (cres) / Stria terminalis L
+FA_Superior longitudinal fasciculus R
+FA_Superior longitudinal fasciculus L
+FA_Superior fronto-occipital fasciculus R
+FA_Superior fronto-occipital fasciculus L
+FA_Uncinate fasciculus R
+FA_Uncinate fasciculus L
+FA_Tapetum R
+FA_Tapetum L
+MD_Middle cerebellar peduncle
+MD_Pontine crossing tract
+MD_Genu of corpus callosum
+MD_Body of corpus callosum
+MD_Splenium of corpus callosum
+MD_Fornix (column and body)
+MD_Corticospinal tract R
+MD_Corticospinal tract L
+MD_Medial lemniscus R
+MD_Medial lemniscus L
+MD_Inferior cerebellar peduncle R
+MD_Inferior cerebellar peduncle L
+MD_Superior cerebellar peduncle R
+MD_Superior cerebellar peduncle L
+MD_Cerebral peduncle R
+MD_Cerebral peduncle L
+MD_Anterior limb of internal capsule R
+MD_Anterior limb of internal capsule L
+MD_Posterior limb of internal capsule R
+MD_Posterior limb of internal capsule L
+MD_Retrolenticular part of internal capsule R
+MD_Retrolenticular part of internal capsule L
+MD_Anterior corona radiata R
+MD_Anterior corona radiata L
+MD_Superior corona radiata R
+MD_Superior corona radiata L
+MD_Posterior corona radiata R
+MD_Posterior corona radiata L
+MD_Posterior thalamic radiation R
+MD_Posterior thalamic radiation L
+MD_Sagittal stratum R
+MD_Sagittal stratum L
+MD_External capsule R
+MD_External capsule L
+MD_Cingulum (cingulate gyrus) R
+MD_Cingulum (cingulate gyrus) L
+MD_Cingulum (hippocampus) R
+MD_Cingulum (hippocampus) L
+MD_Fornix (cres) / Stria terminalis R
+MD_Fornix (cres) / Stria terminalis L
+MD_Superior longitudinal fasciculus R
+MD_Superior longitudinal fasciculus L
+MD_Superior fronto-occipital fasciculus R
+MD_Superior fronto-occipital fasciculus L
+MD_Uncinate fasciculus R
+MD_Uncinate fasciculus L
+MD_Tapetum R
+MD_Tapetum L
+AD_Middle cerebellar peduncle
+AD_Pontine crossing tract
+AD_Genu of corpus callosum
+AD_Body of corpus callosum
+AD_Splenium of corpus callosum
+AD_Fornix (column and body)
+AD_Corticospinal tract R
+AD_Corticospinal tract L
+AD_Medial lemniscus R
+AD_Medial lemniscus L
+AD_Inferior cerebellar peduncle R
+AD_Inferior cerebellar peduncle L
+AD_Superior cerebellar peduncle R
+AD_Superior cerebellar peduncle L
+AD_Cerebral peduncle R
+AD_Cerebral peduncle L
+AD_Anterior limb of internal capsule R
+AD_Anterior limb of internal capsule L
+AD_Posterior limb of internal capsule R
+AD_Posterior limb of internal capsule L
+AD_Retrolenticular part of internal capsule R
+AD_Retrolenticular part of internal capsule L
+AD_Anterior corona radiata R
+AD_Anterior corona radiata L
+AD_Superior corona radiata R
+AD_Superior corona radiata L
+AD_Posterior corona radiata R
+AD_Posterior corona radiata L
+AD_Posterior thalamic radiation R
+AD_Posterior thalamic radiation L
+AD_Sagittal stratum R
+AD_Sagittal stratum L
+AD_External capsule R
+AD_External capsule L
+AD_Cingulum (cingulate gyrus) R
+AD_Cingulum (cingulate gyrus) L
+AD_Cingulum (hippocampus) R
+AD_Cingulum (hippocampus) L
+AD_Fornix (cres) / Stria terminalis R
+AD_Fornix (cres) / Stria terminalis L
+AD_Superior longitudinal fasciculus R
+AD_Superior longitudinal fasciculus L
+AD_Superior fronto-occipital fasciculus R
+AD_Superior fronto-occipital fasciculus L
+AD_Uncinate fasciculus R
+AD_Uncinate fasciculus L
+AD_Tapetum R
+AD_Tapetum L
+RD_Middle cerebellar peduncle
+RD_Pontine crossing tract
+RD_Genu of corpus callosum
+RD_Body of corpus callosum
+RD_Splenium of corpus callosum
+RD_Fornix (column and body)
+RD_Corticospinal tract R
+RD_Corticospinal tract L
+RD_Medial lemniscus R
+RD_Medial lemniscus L
+RD_Inferior cerebellar peduncle R
+RD_Inferior cerebellar peduncle L
+RD_Superior cerebellar peduncle R
+RD_Superior cerebellar peduncle L
+RD_Cerebral peduncle R
+RD_Cerebral peduncle L
+RD_Anterior limb of internal capsule R
+RD_Anterior limb of internal capsule L
+RD_Posterior limb of internal capsule R
+RD_Posterior limb of internal capsule L
+RD_Retrolenticular part of internal capsule R
+RD_Retrolenticular part of internal capsule L
+RD_Anterior corona radiata R
+RD_Anterior corona radiata L
+RD_Superior corona radiata R
+RD_Superior corona radiata L
+RD_Posterior corona radiata R
+RD_Posterior corona radiata L
+RD_Posterior thalamic radiation R
+RD_Posterior thalamic radiation L
+RD_Sagittal stratum R
+RD_Sagittal stratum L
+RD_External capsule R
+RD_External capsule L
+RD_Cingulum (cingulate gyrus) R
+RD_Cingulum (cingulate gyrus) L
+RD_Cingulum (hippocampus) R
+RD_Cingulum (hippocampus) L
+RD_Fornix (cres) / Stria terminalis R
+RD_Fornix (cres) / Stria terminalis L
+RD_Superior longitudinal fasciculus R
+RD_Superior longitudinal fasciculus L
+RD_Superior fronto-occipital fasciculus R
+RD_Superior fronto-occipital fasciculus L
+RD_Uncinate fasciculus R
+RD_Uncinate fasciculus L
+RD_Tapetum R
+RD_Tapetum L
