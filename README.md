@@ -26,22 +26,22 @@ pip install numpy pandas matplotlib scipy scikit-learn nibabel seaborn
 The project is structured to follow a specific analysis workflow, especially for the HCPEP and MEND cohorts. Here's how to navigate through the notebooks in the recommended order:
 
 ### For Primary Cohort (HCPEP) Analysis:
-- HCPEP_PLS.ipynb: Starts with the Partial Least Squares (PLS) analysis for the EP dataset. This notebook is the entry point for understanding the primary patterns and relationships within the EP cohort data.
-- HCPEP_post_hoc.ipynb: Follows the PLS analysis with post-hoc assessments to delve deeper into the findings from the PLS analysis, focusing on the EP dataset.
-- HCPEP_figures.ipynb: Generates visualizations and figures for the HCPEP study. This notebook is utilized after the PLS and post-hoc analyses to visually represent the findings.
+- [HCPEP_PLS.ipynb](https://github.com/haleyrwang/CCNL_DecodingEP/blob/main/Code/HCPEP_PLS.ipynb): Starts with the Partial Least Squares (PLS) analysis for the EP dataset. This notebook is the entry point for understanding the primary patterns and relationships within the EP cohort data.
+- [HCPEP_post_hoc.ipynb](https://github.com/haleyrwang/CCNL_DecodingEP/blob/main/Code/HCPEP_post_hoc.ipynb): Follows the PLS analysis with post-hoc assessments to delve deeper into the findings from the PLS analysis, focusing on the EP dataset.
+- [HCPEP_figures.ipynb](https://github.com/haleyrwang/CCNL_DecodingEP/blob/main/Code/HCPEP_figures.ipynb): Generates visualizations and figures for the HCPEP study. This notebook is utilized after the PLS and post-hoc analyses to visually represent the findings.
 
 ### For Replication Cohort (MEND) Analysis:
 Parallel to the EP/HCPEP analysis, the MEND study follows a similar pattern:
-- MEND_PLS.ipynb: Conducts the Partial Least Squares (PLS) analysis for the MEND dataset, serving as the foundation for understanding the dataset's key components.
-- MEND_post_hoc.ipynb: Provides a deeper dive into the MEND dataset findings, following up on the PLS analysis with post-hoc investigations.
-- MEND_figures.ipynb: Creates figures and visual representations for the MEND study, showcasing the results from both the PLS and post-hoc analyses.
+- [MEND_PLS.ipynb](https://github.com/haleyrwang/CCNL_DecodingEP/blob/main/Code/MEND_PLS.ipynb): Conducts the Partial Least Squares (PLS) analysis for the MEND dataset, serving as the foundation for understanding the dataset's key components.
+- [MEND_post_hoc.ipynb](https://github.com/haleyrwang/CCNL_DecodingEP/blob/main/Code/MEND_post_hoc.ipynb): Provides a deeper dive into the MEND dataset findings, following up on the PLS analysis with post-hoc investigations.
+- [MEND_figures.ipynb](https://github.com/haleyrwang/CCNL_DecodingEP/blob/main/Code/MEND_figures.ipynb): Creates figures and visual representations for the MEND study, showcasing the results from both the PLS and post-hoc analyses.
 
 ### Cross Cohort (External Validation) Analysis Steps:
 After completing the specific study analyses for both EP/HCPEP and MEND, the project continues with the following steps that apply across the datasets:
-- Generate_overlay.ipynb: This notebook is used for generating overlay images for visualization purposes. It's typically run after the individual study analyses are completed.
-- Tract_classification.ipynb: Classifies tractography data based on predefined criteria. This notebook is useful for further detailed analysis following the overlay generation.
-- Tross_cohort_figures.ipynb: Generates figures comparing different cohorts across the studies. This final step allows for cross-comparison and broader insights across the datasets.
-- Clinical_group_differences.ipynb: Although not part of the direct flow for EP/HCPEP or MEND analysis, this notebook is essential for analyzing clinical differences between various groups within the dataset, offering additional context and insights.
+- [Generate_overlay.ipynb](https://github.com/haleyrwang/CCNL_DecodingEP/blob/main/Code/Generate_overlay.ipynb): This notebook is used for generating overlay images for visualization purposes. It's typically run after the individual study analyses are completed.
+- [Tract_classification.ipynb](https://github.com/haleyrwang/CCNL_DecodingEP/blob/main/Code/tract_classification.ipynb): Classifies tractography data based on predefined criteria. This notebook is useful for further detailed analysis following the overlay generation.
+- [Cross_cohort_figures.ipynb](https://github.com/haleyrwang/CCNL_DecodingEP/blob/main/Code/cross_cohort_figures.ipynb): Generates figures comparing different cohorts across the studies. This final step allows for cross-comparison and broader insights across the datasets.
+- [Clinical_group_differences.ipynb](https://github.com/haleyrwang/CCNL_DecodingEP/blob/main/Code/clinical_group_differences.ipynb): Although not part of the direct flow for EP/HCPEP or MEND analysis, this notebook is essential for analyzing clinical differences between various groups within the dataset, offering additional context and insights.
 
 
 ## Folder Structure
