@@ -48,6 +48,14 @@ After completing the specific study analyses for both EP/HCPEP and MEND, the pro
 - The [Code](https://github.com/haleyrwang/CCNL_DecodingEP/tree/main/Code) folder contains all the code used to run the analyses and generate the figures.
 - The [Data](https://github.com/haleyrwang/CCNL_DecodingEP/tree/main/Data) folder contains all the data used to run the analyses, including preprocessed DTI metrics from both HCP-EP and MEND datasets. If you use any of the processed DTI data, please cite this paper. The PLS outputs are not included due to file size.
 
+
+## Note on TBSS
+Tract-Based Spatial Statistics (TBSS) and Alternative Methods
+- Our study utilized Tract-Based Spatial Statistics (TBSS) for analyzing DTI data. However, users of this code repository are not limited to TBSS and can adapt the provided code to work with tract-wise microstructural metrics derived from their preferred methods.
+- It is important to note that TBSS has some potential limitations, such as instability with different diffusion tensor fitting algorithms (Maximov et al., 2015). While our study employed TBSS to facilitate replicability by using a widely used, publicly available dataset (ENIGMA-style), standard FSL TBSS pipelines, and ROIs defined based on the commonly used JHU atlas included in FSL, we encourage users to explore and consider more state-of-the-art approaches for analyzing DTI data in their future work.
+- Sharing our code on GitHub was intended to promote the use of comparable methods across datasets and make them accessible to a broader range of researchers. However, we recognize the importance of considering alternative methods to TBSS and encourage users to investigate other approaches that may be more suitable for their specific research questions and datasets.
+
+
 ## Contact
 For any questions regarding the study, you can reach me at haleywang@ucla.edu.
 
